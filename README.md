@@ -2,4 +2,4 @@
 
  **Projet Ajax**
 
-[Ajax](https://lynnfoy.github.io/Ajax-simple-web-service-request/)
+[Lien projet Ajax](https://lynnfoy.github.io/Ajax-simple-web-service-request/)
